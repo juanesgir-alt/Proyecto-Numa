@@ -36,3 +36,5 @@ Usar el cronograma editorial existente como **v0.1**. Antes de publicar, decidir
 Al cerrar cada revisión de NUMA: (1) actualizar el archivo temático; (2) agregar entrada en este registro; (3) actualizar `README.md` con estado, próximos pasos y fecha; (4) mantener CSV de clientes con estados reales. No hacer commits en `juanesgir-alt/Portafolio-2026`.
 
 - 12/11/2026: se creó un boceto gráfico exploratorio de la identidad, marcado expresamente como NO OFICIAL y archivado en Canva (Recursos y referencias), con nota de limitaciones.
+
+- 12/11/2026: el usuario aprobó la nueva dirección editorial oscura del Carrusel 01, compuesta por cinco imágenes verticales independientes. Se archivaron exportaciones 1080×1350, guía de replicación, referencias utilizadas y kit raster del logo/paleta. El negro queda como variante editorial, no como regla para toda la marca; se mantiene prevista una línea clara/crema para publicaciones futuras. Tipografía vigente: Clash Grotesk Bold + DM Sans Regular/Medium. El logotipo no se repetirá automáticamente en cada página.

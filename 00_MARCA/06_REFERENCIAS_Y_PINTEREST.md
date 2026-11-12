@@ -41,3 +41,15 @@ Guardar referencias en tres tableros separados:
 - `NUMA / 03 Motion y storytelling`: transiciones orgánicas y casos de estudio.
 
 De cada pin, anotar **qué tomamos** (jerarquía, ritmo, composición o transición) y **qué NO copiamos** (logo, combinación exacta, identidad completa, recursos propietarios).
+
+## Referencias específicas del Carrusel 01 aprobado · 12/11/2026
+
+**Referencia directa:** imagen de cinco páginas oscuras compartida por el usuario en la conversación. Se tomó como guía de dirección de arte: fondo negro, titulares crema con palabras violetas, ondas y blobs de color en los bordes, destellos, iconografía sencilla y una lámina final con proyectos presentados mediante fotografías recortadas.
+
+**Identidad NUMA:** las láminas originales de branding compartidas por el usuario y el kit de recursos del proyecto. La última referencia de tipografía indica Clash Grotesk Bold y DM Sans Regular / Medium. Se respetan los seis colores oficiales.
+
+**Referencias de proyecto usadas en la lámina final:** imagen del producto Frumi, fotografía de Blue Nails y portada de Modo Social / “Ruta 01 — Conocer, salir y elegir”, proporcionadas por el usuario. Son muestras visuales; mantener intacta la identidad de cada proyecto y confirmar permisos/créditos antes de publicar.
+
+**Inspiración general, no copia:** Smoosh Branding, Honest Folk, FreshFuse, Nimki y Patty Bun, ya documentadas arriba. Se toman únicamente principios de expresividad tipográfica, símbolos, formas orgánicas y ritmo editorial. No se replica ningún logo ni composición propietaria.
+
+**Nota de procedencia:** no se realizó una búsqueda web nueva para generar este carrusel. La referencia visual principal fue la imagen que compartió el usuario, complementada por las láminas de marca y los recursos reales de los proyectos.

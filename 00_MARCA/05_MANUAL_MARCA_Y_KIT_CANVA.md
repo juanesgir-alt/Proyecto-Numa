@@ -25,10 +25,11 @@ No usar los seis colores con igual importancia en todas las composiciones. Proba
 
 ## Tipografía
 
-- **Clash Display:** titulares, palabras clave, expresiones tipográficas de tamaño protagonista. Es la tipografía señalada en la lámina 3.
-- **Manrope:** cuerpo de texto, subtítulos, CTA, información comercial y microcopys.
-- No sustituir el logotipo con texto tecleado en Clash Display: el wordmark original es un dibujo personalizado.
-- Antes de producir en Canva, comprobar existencia de ambas en la biblioteca y derechos/posibilidad de subida, sin compartir archivos de fuentes sin licencia.
+- **Clash Grotesk Bold:** titulares, palabras clave y expresiones tipográficas protagonistas.
+- **DM Sans Regular / Medium:** cuerpo de texto, subtítulos, CTA, etiquetas e información comercial.
+- Esta pareja es la referencia tipográfica vigente según la lámina visual y el kit de recursos más recientes del 12/11/2026. Las menciones anteriores a Clash Display / Manrope quedan como referencias previas.
+- No sustituir el logotipo con texto tecleado en ninguna fuente: el wordmark original es un dibujo personalizado.
+- Antes de producir en Canva, comprobar disponibilidad y licencia de ambas familias; no compartir archivos de fuentes sin licencia.
 
 ## Recursos gráficos
 
@@ -85,3 +86,22 @@ No usar los seis colores con igual importancia en todas las composiciones. Proba
 - Datos y casos autorizados para publicar.
 - Un objetivo y CTA por post.
 - Conservar originales editables separados de exportaciones.
+
+## Actualización · 12/11/2026 — variante editorial oscura y clara
+
+Se aprueba una nueva dirección para el Carrusel 01: fondo carbón `#0F1014`, titulares crema, palabras clave violetas, formas orgánicas grandes y acentos verdes, amarillos y coral. La guía completa está en `02_INSTAGRAM/POST_01_MANIFIESTO/GUIA_REPLICAR_ESTILO_CARRUSEL_NEGRO_2026-11-12.md`.
+
+La variante oscura es una **opción editorial**, no una obligación para todos los posts. La variante clara mantiene la misma identidad con fondo crema/blanco cálido, texto carbón, violeta protagonista y formas orgánicas de acento. Se pueden alternar ambas según el contenido.
+
+El logotipo no tiene que aparecer en todas las láminas. En el carrusel aprobado aparece en la portada y las páginas restantes construyen reconocimiento con la paleta, tipografía y recursos gráficos.
+
+### Recursos de logo disponibles
+
+El archivo `00_MARCA/LOGOS_Y_SIMBOLOS/NUMA_KIT_LOGOS_RASTER.zip` contiene el recorte de referencia, variantes transparentes raster, el símbolo y la paleta. Las variantes transparentes se extrajeron de la lámina compartida; **no son un master vectorial**. Si se consigue el SVG/AI oficial, debe sustituirlas en producción.
+
+### Aplicación por tipo de publicación
+
+- **Manifiesto / presentación:** variante oscura o clara, titular protagonista, una idea por lámina.
+- **Insights / educación:** preferir crema/blanco para lectura prolongada; usar diagramas simples y acentos de color.
+- **Work / casos:** fotografía real del proyecto como protagonista; respetar colores, logo y sistema de cada marca cliente.
+- **CTA:** botón o banda de color solo cuando exista una acción concreta; evitar convertir cada lámina en una tarjeta.
