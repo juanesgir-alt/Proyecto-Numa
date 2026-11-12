@@ -16,13 +16,13 @@ Repositorio oficial de trabajo de **NUMA Creative Studio**, independiente de `ju
 ## Diseño aprobado
 Referencias originales: logo orgánico de NUMA con símbolo floral/asterisco, tipografía expresiva, ilustración amigable, recortes, iconos sólidos redondeados, jerarquías tipográficas fuertes y formas orgánicas fluidas. **Nunca sustituir el logo maestro con un logotipo generado.**
 
-Paleta: `#0F1014` carbón · `#8C67F7` violeta · `#2AA990` verde · `#F4F3EC` crema · `#FFD43A` amarillo · `#FD6333` coral. Tipografías documentadas: Clash Display / Manrope.
+Paleta: `#0F1014` carbón · `#8C67F7` violeta · `#2AA990` verde · `#F4F3EC` crema · `#FFD43A` amarillo · `#FD6333` coral. Tipografías mencionadas en los materiales: Clash Display / Manrope; las láminas de referencia recientes también muestran Clash Grotesk / DM Sans. Confirmar tipografías maestras antes del arte final.
 
 ## Primera campaña de Instagram
 **12 publicaciones · 16 de noviembre–11 de diciembre de 2026 · tres por semana.**
 Objetivo de cada post: **presentar marca → demostrar servicios → construir confianza con portafolio → captar consultas**.
 
-Ver `01_PLANIFICACION/02_CALENDARIO_POSTS.md`, `01_PLANIFICACION/03_GUIONES_DISENO.md` y el PDF editorial adjunto en los entregables descargables. Los tres posts fijados propuestos: manifiesto, servicios y caso Frumi.
+Ver `01_PLANIFICACION/02_CALENDARIO_POSTS.md`, `01_PLANIFICACION/03_GUIONES_DISENO.md` y el PDF editorial entregado en el chat (pendiente de incorporar a GitHub como archivo binario). Los tres posts fijados propuestos: manifiesto, servicios y caso Frumi.
 
 ## Archivo y seguimiento
 Toda actualización importante debe registrar fecha, qué cambió, estado y próximas tareas en `04_HISTORIAL/`; mantener este README como índice. Frumi se presenta como concepto en desarrollo, no como proyecto con resultados comerciales demostrados. Verificar créditos y permisos antes de publicar casos.
@@ -35,7 +35,12 @@ Toda actualización importante debe registrar fecha, qué cambió, estado y pró
 - Repositorio independiente creado y conectado.
 - Estrategia Colombia/Latinoamérica aprobada.
 - Calendario de 12 publicaciones y primer carrusel de bienvenida diseñados.
-- Búsqueda de prospectos inicial preparada; verificar contactos antes de prospectar.
+- Búsqueda de prospectos inicial guardada en `03_PROSPECTOS/`; verificar contactos antes de prospectar.
+- Seis láminas originales de branding guardadas en `00_MARCA/Referencias_originales/`. Los PNG nuevos permanecen en Canva y están pendientes de subida binaria al repositorio.
 - Diseños en fase de revisión; no publicar automáticamente.
 
 > Para retomar: lee el README de `juanesgir-alt/Proyecto-Numa` y los planes de `01_PLANIFICACION/`; no tocar `Portafolio-2026`.
+
+## Pendientes de archivo binario
+- `01_PLANIFICACION/NUMA_CRONOGRAMA_EDITORIAL_NOV_DIC_2026.pdf` (copia PDF idéntica disponible en la conversación; aún no subida aquí).
+- PNG finales del carrusel y exploraciones gráficas; originales accesibles desde Canva.
