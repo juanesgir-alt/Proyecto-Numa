@@ -44,3 +44,8 @@ Toda actualización importante debe registrar fecha, qué cambió, estado y pró
 ## Pendientes de archivo binario
 - `01_PLANIFICACION/NUMA_CRONOGRAMA_EDITORIAL_NOV_DIC_2026.pdf` (copia PDF idéntica disponible en la conversación; aún no subida aquí).
 - PNG finales del carrusel y exploraciones gráficas; originales accesibles desde Canva.
+
+## Kit de marca (estado actual)
+- [Recursos para configurar Canva — 12/11/2026](00_MARCA/KIT_CANVA_RECURSOS_2026-11-12.md).
+- [Carpeta de logotipos y paleta en Canva](https://www.canva.com/folder/FAHauI90O2c).
+- Brand Kit oficial dentro del nuevo equipo Pro: **pendiente**. El conector aún devuelve el límite mensual de IA y no expone creación de kits ni selección de equipos.
